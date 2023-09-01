@@ -102,7 +102,7 @@ def main():
                 log.info("WEBPAGE WAS CHANGED.")
                 notification.notify(
                     title='GOG Alert',
-                    message='GOG-Games.com has been updated!',
+                    message='GOG-Games.to has been updated!',
                     app_icon="gog.ico",
                     timeout=10,
                 )
