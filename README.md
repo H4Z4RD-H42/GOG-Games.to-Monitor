@@ -1,7 +1,7 @@
 # GOG-Games.to-Monitor
  <h2>Monitor website for new games</h2>
  
-Run **notifier.bat** (must be in the same folder of .py file)
+Run **notifier.bat** (must be in the same folder of .py and .ico files)
 
 If the script detects changes in the site, you will be notified by a Windows notification
 
