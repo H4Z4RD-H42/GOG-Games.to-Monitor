@@ -5,7 +5,7 @@ import time
 import logging
 from plyer import notification
 
-URL_TO_MONITOR = "https://gog-games.com/"
+URL_TO_MONITOR = "https://gog-games.to/"
 DELAY_TIME = 180  # seconds
 
 def process_html(string):
