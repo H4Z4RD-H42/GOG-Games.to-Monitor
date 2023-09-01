@@ -8,3 +8,6 @@ If the script detects changes in the site, you will be notified by a Windows not
 To stop the process, kill the 'python' and 'python (32 bit)' process.
 
 Change the **DELAY_TIME** value in the .py file to set the time between refreshes (default: 180s)
+
+
+Sometimes, it gets a false positive.. It's a script written in 10 minutes.. Contribute!
