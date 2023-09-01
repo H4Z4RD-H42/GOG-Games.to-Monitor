@@ -1,1 +1,1 @@
-pythonw main.py
+pythonw gog-games.to-monitor.py
